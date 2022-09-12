@@ -7,7 +7,7 @@
     <div id="container">
         <header id="cabecalho">
             <div class="logo">
-              <img src="./panda.png" width="190" height="190">
+              <img src="./logo.png" width="190" height="190">
             </div>
             <nav>
                 <ul class="menu">
