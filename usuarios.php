@@ -1,14 +1,13 @@
 <?php include "cabecalho.php";?>
 
 <div class="card mt-4 mb-4">
-    <div class="card-header bg-primary text-white">Clientes</div>
+    <div class="card-header bg-primary text-white">Usuários</div>
     <div class="card-body">
         <div class="row">
             <div class="col-2">
-                <button class="btn btn-info">Novo Cliente</button>
+                <button class="btn btn-info">Novo Usuário</button>
             </div>
 
-            
             <div class="col-2">
                 <select name="opcao" class="form-control">
                     <option selected="selected" value="0">Todos</option>
@@ -27,8 +26,7 @@
     </div>
 </div>
 
-
-<table class="table table-hover table-striped"">
+<table class="table table-hover table-striped">
   <thead>
     <tr>
       <th>ID</th>
